@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/noora/Edistynytohjelmointi1osa1/app/src/main/res/drawable/delete.xml" value="0.275" />
+        <entry key="..\:/Users/noora/Edistynytohjelmointi1osa1/app/src/main/res/drawable/done.xml" value="0.275" />
+        <entry key="..\:/Users/noora/Edistynytohjelmointi1osa1/app/src/main/res/drawable/not_done.xml" value="0.275" />
+        <entry key="..\:/Users/noora/Edistynytohjelmointi1osa1/app/src/main/res/layout/activity_main.xml" value="0.161231884057971" />
+        <entry key="..\:/Users/noora/Edistynytohjelmointi1osa1/app/src/main/res/layout/app_bar_main.xml" value="0.161231884057971" />
+        <entry key="..\:/Users/noora/Edistynytohjelmointi1osa1/app/src/main/res/layout/content_main.xml" value="0.12588652482269502" />
+        <entry key="..\:/Users/noora/Edistynytohjelmointi1osa1/app/src/main/res/layout/fragment_data.xml" value="0.2" />
+        <entry key="..\:/Users/noora/Edistynytohjelmointi1osa1/app/src/main/res/layout/fragment_data_retrieval.xml" value="0.13333333333333333" />
+        <entry key="..\:/Users/noora/Edistynytohjelmointi1osa1/app/src/main/res/layout/fragment_detail.xml" value="0.16576086956521738" />
+        <entry key="..\:/Users/noora/Edistynytohjelmointi1osa1/app/src/main/res/layout/fragment_maps.xml" value="0.161231884057971" />
+        <entry key="..\:/Users/noora/Edistynytohjelmointi1osa1/app/src/main/res/layout/nav_header_main.xml" value="0.161231884057971" />
+        <entry key="..\:/Users/noora/Edistynytohjelmointi1osa1/app/src/main/res/layout/recyclerview_item_row.xml" value="0.3" />
+        <entry key="..\:/Users/noora/Edistynytohjelmointi1osa1/app/src/main/res/menu/activity_main_drawer.xml" value="0.25885416666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
